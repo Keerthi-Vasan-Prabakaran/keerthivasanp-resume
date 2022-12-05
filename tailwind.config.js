@@ -3,8 +3,10 @@ module.exports = {
   content: ["./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {},
-    fontFamily:{
-      signature : ["Great Vibes"],
+    fontFamily: {
+      signature: ["Great Vibes"],
+      lexend: ["Lexend"],
+      montserrat: ["Montserrat Alternates"],
     },
   },
   plugins: [],

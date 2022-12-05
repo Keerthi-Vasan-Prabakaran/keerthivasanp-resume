@@ -1,5 +1,5 @@
 import React from "react";
-import {  FaLinkedin } from "react-icons/fa";
+import { FaLinkedin } from "react-icons/fa";
 import { HiOutlineMail } from "react-icons/hi";
 
 const SocialMedia = () => {
@@ -14,7 +14,7 @@ const SocialMedia = () => {
       href: "https://www.linkedin.com/in/keerthi-vasan-b06133225/",
       style: "rounded-tr-md",
     },
-    
+
     {
       id: 2,
       child: (
@@ -24,7 +24,6 @@ const SocialMedia = () => {
       ),
       href: "mailto:keerthivasanprabhu7@gmail.com",
     },
-    
   ];
 
   return (
